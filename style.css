@@ -52,13 +52,14 @@ h2{
     margin-bottom: 15px;
 }
 .description{
+    color: hsl(0, 0%, 42%);
     font-size: small;
     margin-bottom: 10px;
 }
 .card-author {
     display: flex;
-    align-items: center; /* vertically align text with image */
-    gap: 15px;            /* space between image and name */
+    align-items: center; 
+    gap: 15px;       
     margin-top: 10px;
   }
 .image-avatar{
